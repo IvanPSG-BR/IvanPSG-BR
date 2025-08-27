@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Ivan! 👋
 
-<!--
-**IvanPSG-BR/IvanPSG-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Informática | Desenvolvedor Júnior (Python/PHP)**  
+Apaixonado por backend, automações e jogos retrô.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Tech
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-d4d413?logo=python" width="135"> 
+  <img src="https://img.shields.io/badge/-FastAPI-3613d4?logo=fastapi" width="135">
+  <img src="https://img.shields.io/badge/-PHP 8+-0b1715?logo=php" width="135">
+  <img src="https://img.shields.io/badge/-TypeScript-1319d4?logo=typescript" width="175">   
+</div>
+
+##  Projetos em destaque
+| Projeto | O que faz | Tecnologias |
+|--------|-----------|-------------|
+| [Portifólio](url) | Portifólio profissional | HTML, CSS, Typescript, Vite, React |
+| [ETL de notícias](url) | Agrega notícias tech e envia por email | Python, FastAPI |
+| [Tasksmith TCC](url) | Website de gerenciamento de tarefas gamificado | PHP, HTML, CSS, JavaScript, TailwindCSS |
+
+---
+
+##  GitHub Stats  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ivanpsg-br&show_icons=true&theme=radical)
+
+---
+
+##  O que estou aprendendo  
+- React com TypeScript e Vite  
+- Conceitos de WebSockets e tempo real
+- Construção de APIs e Padrões de Arquitetura Backend
+
+---
+
+##  Contato  
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/ivan-psg-developer/)
+
+- Email: ivan.psg@protonmail.com
+---
+
+##  Curiosidades  
+- Adoro games indie e estética retrô  
+- Resolvo problemas lógicos curtindo trilhas sonoras de jogos 

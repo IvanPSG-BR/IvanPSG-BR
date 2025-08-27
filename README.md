@@ -14,11 +14,11 @@ Apaixonado por backend, automações e jogos retrô.
 </div>
 
 ##  Projetos em destaque
-| Projeto | O que faz | Tecnologias |
-|--------|-----------|-------------|
-| [Portifólio](url) | Portifólio profissional | HTML, CSS, Typescript, Vite, React |
-| [ETL de notícias](url) | Agrega notícias tech e envia por email | Python, FastAPI |
-| [Tasksmith TCC](url) | Website de gerenciamento de tarefas gamificado | PHP, HTML, CSS, JavaScript, TailwindCSS |
+| Projeto | O que faz | Tecnologias | Status |
+|--------|-----------|-------------|--------|
+| [Portifólio](https://github.com/IvanPSG-BR/ivandev-portfolio) | Portifólio profissional | HTML, CSS, Typescript, Vite, React | Em Desenvolvimento |
+| [TechNoMundo](url) | Agrega notícias tech e envia por email | Python, FastAPI | Para começar |
+| [Tasksmith TCC](https://github.com/IvanPSG-BR/Tasksmith-TCC) | Website de gerenciamento de tarefas gamificado | PHP, HTML, CSS, JavaScript, TailwindCSS | Em Desenvolvimento |
 
 ---
 

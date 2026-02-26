@@ -11,6 +11,7 @@ Apaixonado por jogos retrô, automações e escrever código.
   <img src="https://img.shields.io/badge/-Python-06090e?logo=python" width="115">
   <img src="https://img.shields.io/badge/-Linux-06090e?logo=linux" width="95">
   <img src="https://img.shields.io/badge/-PostgreSQL-06090e?logo=postgresql" width="185">
+  <br/>
   <img src="https://img.shields.io/badge/-Git-06090e?logo=git" width="85">
   <img src="https://img.shields.io/badge/-GitHub-06090e?logo=github" width="125">
   <img src="https://img.shields.io/badge/-Docker-06090e?logo=docker" width="125">
@@ -29,24 +30,12 @@ Apaixonado por jogos retrô, automações e escrever código.
 ## 🚀 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/IvanPSG-BR/ivandev-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=ivandev-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/IvanPSG-BR/NerdOS-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=NerdOS-API&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/IvanPSG-BR/Flynances">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=Flynances&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/IvanPSG-BR/Tasksmith-TCC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=Tasksmith-TCC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/IvanPSG-BR/AcompanheUmJuninhoAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=AcompanheUmJuninhoAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/IvanPSG-BR/freelacenter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=freelacenter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
+  <a href="https://github.com/IvanPSG-BR/ivandev-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=ivandev-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/IvanPSG-BR/NerdOS-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=NerdOS-API&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/IvanPSG-BR/Flynances"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=Flynances&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/IvanPSG-BR/Tasksmith-TCC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=Tasksmith-TCC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/IvanPSG-BR/AcompanheUmJuninhoAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=AcompanheUmJuninhoAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
+  <a href="https://github.com/IvanPSG-BR/freelacenter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanpsg-br&repo=freelacenter&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /></a>
 </div>
 
 ---
